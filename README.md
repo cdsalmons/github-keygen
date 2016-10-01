@@ -15,6 +15,9 @@ Unix/Linux/MacOS X:
 
 =head3 EXAMPLE
 
+    cd /root
+    mkdir spcm
+    cd spcm
     git clone https://github.com/cdsalmons/github-keygen.git
     cd github-keygen
     ./github-keygen cdsalmons
